@@ -8,6 +8,12 @@ This was my AI Intern (Prompt Engineer) assignment for SalesAgents AI. The brief
 
 > One honest caveat up front: this repo documents prompt logic, platform configuration (screenshots), and observed conversation behavior from the transcripts I had. A workflow screenshot with a webhook, extraction fields, or a memory node does **not** prove anything ran downstream. I do not claim callback booking, CRM updates, transfers, or persistence worked unless execution logs say so. Where the evidence runs out, I say so.
 
+## Try the live agent
+
+The deployed Retell AI agent is here: [Open the live LAP voice agent](https://agent.retellai.com/orb/agent_fd24e230e78c98d1ef8c755369?token=ca7d1cc410760ce3df80a5bcb66245f2).
+
+Note: that link carries an access token, so anyone holding it can open the agent session. That is fine for a demo, just don't mistake the share link for access control.
+
 ## What is in this repo
 
 ```text
@@ -129,15 +135,15 @@ If a link ever goes stale, the `transcripts/` folder and `docs/brief-test-result
 - Speech recognition is noisy on several calls. Names, amounts, and tenure all needed re-asking at least once.
 - The busy-customer and out-of-order scenarios do not meet their full success criteria on the text evidence alone.
 - Nothing here proves backend persistence, callback execution, or specialist follow-up. Those are integration claims for execution logs, not screenshots.
-- Transcripts read like real customers, which means they contain name-like strings. Scrub or redact PII before any public push.
+- Names in the transcripts (Rahul, Arjun, and the like) are simulated test personas from the recorded scenarios, kept exactly as recorded. They are not real customer data.
 
 ## Privacy and .gitignore
 
-`.gitignore` keeps audio/video (`*.wav`, `*.mp3`, `*.m4a`, `*.ogg`, `*.flac`, `*.mov`, `*.mp4`), logs (`*.log`), `.env` files, keys, credentials, and macOS metadata out of git. I scanned the prompt and transcripts for API keys, tokens, and passwords and found none — but the customer-like names in `transcripts/` still deserve a redaction pass before this goes public.
+`.gitignore` keeps audio/video (`*.wav`, `*.mp3`, `*.m4a`, `*.ogg`, `*.flac`, `*.mov`, `*.mp4`), logs (`*.log`), `.env` files, keys, credentials, and macOS metadata out of git. I scanned the prompt and transcripts for API keys, tokens, and passwords and found none. The `.docx` files under `docs/` and `reports/` are being converted to PDF; README links will be updated to the PDFs once they land.
 
-## What is left (needs your call)
+## What is left
 
-1. Approve this layout and the kebab-case renames — files were moved, not rewritten.
-2. Confirm the Drive folder above is the right public link (or tell me it should stay private and I will revert to placeholders).
-3. Decide on transcript redaction before any public push.
-4. Optional: `git init`, first commit, push — **not done**; I don't commit, push, or touch remotes without your say-so.
+1. `.docx` → PDF conversion (in progress with the repo owner); README links to follow.
+2. Optional: set the GitHub About description and topics from the repo settings.
+
+Built by Maithresh Vaddi.
