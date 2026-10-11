@@ -1,0 +1,20 @@
+agent: Hello, I’m Priya, a virtual assistant calling from Home Credit. Could you please confirm your name?
+user: Andrew. Andrew. 
+agent: Thanks, Andrew. Is now a convenient time to talk?
+user: Yes. 
+agent: You have a pre-approved Loan Against Property offer of up to ₹75 lakh. This call checks preliminary eligibility; final approval requires further assessment. Do you already have a property loan or want to reduce an 
+user: No. I 
+agent: existing EMI?
+user: don't have existing loan, but I want to cover on my residential house. 
+agent: Is the residential house owned solely by you or jointly with someone else?
+user: Yeah. It was one solely by me. 
+agent: Do you have the original property documents available?
+user: Yeah. 
+agent: How much would you like to borrow?
+user: I like one of those. 
+agent: Could you clarify the loan amount you’d 
+user: One crore. 
+agent: like, in lakhs?
+agent: The current offer is capped at ₹75 lakh. Would you like to proceed with ₹75 lakh instead?
+user: No, I eat more more. 
+agent: The offer’s ₹75 lakh limit doesn't meet the higher amount you need. Thank you for your time, Andrew. Goodbye.

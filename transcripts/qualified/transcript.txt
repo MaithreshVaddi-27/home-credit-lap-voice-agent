@@ -1,0 +1,47 @@
+agent: Hello, I’m Priya from Home Credit. Could you please confirm your name?
+user: (unintelligible audio)
+agent: I'm sorry, I couldn't hear that clearly. Could you please repeat your name?
+user: Rahul Sharma. 
+agent: Thank you, Rahul. Is now a convenient time to talk?
+user: Yes. For a few minutes. 
+agent: You have a pre-approved Loan Against Property offer of up to ₹75 lakh. This call checks preliminary eligibility; final approval requires further assessment. Do you already have a property loan or want to reduce an 
+user: No. I don't 
+agent: existing EMI?
+user: have any existing property loaner. I an idea to existing 
+agent: You don’t have an existing property loan. Are you looking for a new loan, or to reduce an EMI on another loan?
+user: Yep. 
+agent: Do you mean you’re looking for a 
+user: Yeah. 
+agent: new loan?
+agent: Is the property residential, commercial, industrial, or agricultural?
+user: Extension house. 
+agent: Do you mean it’s a residential house?
+user: Yeah. 
+agent: Is the property owned solely by you or jointly with someone else?
+user: Nine with no ice. 
+agent: I couldn’t make that out. Is the house in your name alone, or jointly owned?
+user: John, play with my wife. 
+agent: The house is jointly owned with your wife, right?
+user: (unintelligible audio)
+agent: Could you repeat that—do you own the house jointly 
+user: Yeah. 
+agent: with your wife?
+agent: Do you have the original property documents available?
+user: Yeah. 
+agent: How much would you like to borrow?
+user: Seventy. Yeah. Verano. 
+agent: Do you mean ₹70 lakh?
+user: Yeah. 
+agent: Are you salaried or self-employed?
+user: Salaried, I am a bank employee. 
+agent: Is your salary received through a bank account or in cash?
+user: Through bank account. 
+agent: What’s the estimated market value of your house?
+user: One Coke. 
+agent: Do you mean the house is worth about 
+user: Yeah. 
+agent: ₹1 crore?
+agent: What loan tenure would you prefer, between 3 and 15 years?
+user: Nine years. 
+agent: Rahul, your answers meet the preliminary criteria for this offer. A senior loan expert will follow up about rates, further assessment, and next steps for your ₹70 lakh request over nine years. Final approval remains subject to further assessment. Thank you for your 
+agent: time.

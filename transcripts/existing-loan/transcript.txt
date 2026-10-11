@@ -1,0 +1,11 @@
+agent: Hello, I’m Priya from Home Credit. Could you please confirm your name?
+user: Raúl Sermó. 
+agent: Thanks, Raúl. Is now a convenient time to talk?
+user: Yeah. 
+agent: You have a pre-approved Loan Against Property offer of up to ₹75 lakh. This call checks preliminary eligibility; final approval requires further assessment. Do you already have a property loan or want to reduce 
+user: Yeah. I currently 
+agent: an existing EMI?
+user: have a proper 
+agent: Do you mean you currently have a property loan?
+user: Yeah. 
+agent: Since you already have a property loan, a loan-transfer specialist would need to review your options rather than continuing this fresh-loan check. I can’t arrange a transfer on this call. Thank you for your time, Raúl. Goodbye.

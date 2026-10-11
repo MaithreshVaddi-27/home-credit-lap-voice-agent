@@ -1,0 +1,12 @@
+agent: Hello, I’m Priya from Home Credit. Could you please confirm your name?
+user: Raúl शर्मा 
+agent: Thanks, Rahul. Is now a convenient time to talk?
+user: Yes. 
+agent: You have a pre-approved Loan Against Property offer of up to ₹75 lakh. This call checks preliminary eligibility; final approval requires further assessment. Do you already have a property loan, or are you looking to reduce an 
+user: No. 
+agent: existing EMI?
+user: Presently, I'm not having any loan. I'm interested to join loan. 
+agent: Is the property you’d like to use residential, commercial, industrial, or agricultural?
+user: Agriculture. 
+user: land. 
+agent: Agricultural land isn’t eligible for this offer, so we can’t proceed at this time. Thank you for your time. Goodbye.

@@ -1,0 +1,29 @@
+agent: Hello, I'm Priya from Home Credit. Could you please confirm your name?
+agent: Are you 
+user: Hello? 
+agent: still there? Please confirm your name so we can continue.
+user: Hello? 
+agent: Hello, I can hear you. I'm Priya from Home Credit. Could you please confirm your name?
+user: Андрей Баба. 
+agent: Is this a convenient time to talk, Andrey?
+user: Yeah. 
+agent: You have a pre-approved Loan Against Property offer of up to ₹75 lakh. This call checks preliminary eligibility; final approval requires further assessment. Do you already have a property loan, or are you looking to 
+user: No. I currently, I do not 
+agent: reduce an existing EMI?
+user: have any existing loan. 
+agent: Is your property residential, commercial, industrial, or agricultural?
+user: Residential house. 
+agent: Is the house owned solely by you or jointly with someone else?
+user: Jointly with my wife. 
+agent: Do you have the original property documents available?
+user: Yes. 
+agent: How much would you like to borrow?
+user: Fifty left. 
+agent: Do you mean ₹50 lakh?
+user: Yeah. 
+agent: Are you salaried or self-employed?
+user: Salad by cash. 
+agent: Did you mean you're salaried and receive your 
+user: Yeah. 
+agent: salary in cash?
+agent: Since your salary is received in cash, you don't meet this offer's criteria at this time. Thank you for your time. Goodbye.

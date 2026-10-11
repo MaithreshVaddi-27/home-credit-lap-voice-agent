@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Audio recordings and raw call media (kept externally, see README Drive links)
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.flac
+*.aac
+*.wma
+*.mov
+*.mp4
+
+# Logs and runtime artifacts
+*.log
+logs/
+*.tmp
+
+# Secrets and private data
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+*secret*.json
+config/secrets/
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+
+# Python (utility scripts only)
+__pycache__/
+.venv/

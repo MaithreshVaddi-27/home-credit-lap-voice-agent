@@ -1,0 +1,44 @@
+agent: Hello, I’m Priya, calling from Home Credit. Could you please confirm your name?
+user: Allora oggi 
+agent: Sorry, I didn’t catch your name. Could 
+user: Allo, Arjun. 
+agent: you please repeat it?
+agent: Is your name Arjun?
+user: Yeah. 
+agent: Arjun, is now a convenient time to talk?
+user: Yeah. 
+user: It's a convenient name, Daniel Rock. 
+agent: Just to confirm, is your name Daniel Rock rather than Arjun?
+user: (unintelligible audio)
+user: Arjun. 
+agent: I couldn’t hear that clearly. Could you please confirm your name again?
+user: Allo, Azum. 
+agent: Did you say your name is Arjun?
+user: Yeah. 
+agent: Arjun, Home Credit has a pre-approved Loan Against Property offer of up to ₹75 lakh. This call checks preliminary eligibility; final approval needs further assessment. Do you already have a property loan or want to reduce an 
+user: No. I currently 
+agent: existing EMI?
+user: don't have an existing loan. I want my loan in business house, which is worth about one crore. 
+agent: You estimate the property’s value at about ₹1 crore. Is the property commercial, residential, or industrial?
+user: A Marcel Rose. 
+agent: Did you mean it’s a commercial property?
+user: Yeah. 
+agent: Is the commercial property owned solely by you or jointly with someone else?
+user: (unintelligible audio)
+agent: I couldn’t hear that clearly. Is 
+user: Joined 
+agent: the property in your name alone or jointly owned?
+user: jointly with my partner 
+agent: Do you have the original property documents available?
+user: Yeah. It is available with me. 
+agent: How much would you like to borrow?
+user: Like, sixty lakhs. 
+agent: For ₹60 lakh, are you salaried or self-employed?
+user: Yeah. I'm salaried up and I get them only in the bank account. 
+agent: What loan tenure would you prefer, between 3 and 15 years?
+user: Seven News. 
+agent: Did you mean a loan tenure of 
+user: Yeah. 
+agent: seven years?
+agent: Arjun, you meet the preliminary criteria for this offer. A senior loan expert will follow up about rates, further assessment, and next steps. Final approval remains subject to that assessment. Thank you for your 
+agent: time.
