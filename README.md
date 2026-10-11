@@ -21,10 +21,10 @@ Note: that link carries an access token, so anyone holding it can open the agent
 ├── prompts/
 │   └── system-prompt.md                          # The actual system prompt
 ├── docs/
-│   ├── brief-test-results.docx                   # Scenario-by-scenario evidence
-│   └── home-credit-lap-project-documentation.docx # Full project write-up
+│   ├── brief-test-results.pdf                    # Scenario-by-scenario evidence
+│   └── home-credit-lap-project-documentation.pdf  # Full project write-up
 ├── reports/
-│   └── home-credit-lap-voice-agent-assignment-report.docx
+│   └── home-credit-lap-voice-agent-assignment-report.pdf
 ├── transcripts/
 │   ├── qualified/transcript.txt
 │   ├── agricultural-property/transcript.txt
@@ -95,7 +95,7 @@ Four hard stops: agricultural property, missing originals, cash income, tenure o
 
 ## What the tests actually showed
 
-Source of truth: [docs/brief-test-results.docx](docs/brief-test-results.docx). I kept the conservative labels from that report. A file existing never counted as a pass — only the behavior in the transcript did. And several calls have audible ASR struggles and `(unintelligible audio)` turns, so treat these as real voice calls with warts, not clean scripts.
+Source of truth: [docs/brief-test-results.pdf](docs/brief-test-results.pdf). I kept the conservative labels from that report. A file existing never counted as a pass — only the behavior in the transcript did. And several calls have audible ASR struggles and `(unintelligible audio)` turns, so treat these as real voice calls with warts, not clean scripts.
 
 | Scenario | What should happen | What I saw | Evidence |
 |---|---|---|---|
@@ -121,7 +121,7 @@ The `.wav` recordings, `.log` files, and the qualified-scenario `.mov` screen re
 
 - [Call recordings, transcripts source pack, and logs (Google Drive folder)](https://drive.google.com/drive/folders/19btUZNUcAv_jRrhM590U-C-VBrFQA2jp?usp=sharing)
 
-If a link ever goes stale, the `transcripts/` folder and `docs/brief-test-results.docx` still carry the reviewable evidence.
+If a link ever goes stale, the `transcripts/` folder and `docs/brief-test-results.pdf` still carry the reviewable evidence.
 
 ## How to review this repo in 10 minutes
 
@@ -139,11 +139,10 @@ If a link ever goes stale, the `transcripts/` folder and `docs/brief-test-result
 
 ## Privacy and .gitignore
 
-`.gitignore` keeps audio/video (`*.wav`, `*.mp3`, `*.m4a`, `*.ogg`, `*.flac`, `*.mov`, `*.mp4`), logs (`*.log`), `.env` files, keys, credentials, and macOS metadata out of git. I scanned the prompt and transcripts for API keys, tokens, and passwords and found none. The `.docx` files under `docs/` and `reports/` are being converted to PDF; README links will be updated to the PDFs once they land.
+`.gitignore` keeps audio/video (`*.wav`, `*.mp3`, `*.m4a`, `*.ogg`, `*.flac`, `*.mov`, `*.mp4`), logs (`*.log`), `.env` files, keys, credentials, and macOS metadata out of git. I scanned the prompt and transcripts for API keys, tokens, and passwords and found none.
 
 ## What is left
 
-1. `.docx` → PDF conversion (in progress with the repo owner); README links to follow.
-2. Optional: set the GitHub About description and topics from the repo settings.
+1. Optional: set the GitHub About description and topics from the repo settings.
 
 Built by Maithresh Vaddi.
