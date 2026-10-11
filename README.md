@@ -42,7 +42,7 @@ Note: that link carries an access token, so anyone holding it can open the agent
 └── README.md
 ```
 
-Everything follows lowercase kebab-case. Each scenario keeps a single `transcript.txt` — the text evidence stays in git, the heavy recordings do not.
+Everything follows lowercase kebab-case. Each scenario keeps a single `transcript.txt`: the text evidence stays in git, the heavy recordings do not.
 
 ## How it works on Retell AI
 
@@ -92,7 +92,7 @@ Four hard stops: agricultural property, missing originals, cash income, tenure o
 8. **Disqualify fast and kindly.** Confirmed failure → short explanation, thanks, `end_call`. No exceptions invented on the spot.
 9. **Hand off only through the full gate.** Name confirmed, customer willing, no transfer case, every fact explicit (both halves of item 5), cap accepted where needed, zero disqualifiers. Then: a senior loan expert follows up on rates and next steps, approval still subject to assessment, thanks, `end_call`.
 10. **When in doubt, the priority list decides:** protect information → respect stop requests → busy/callback → transfer → disqualification → loan cap → next question → handoff.
-11. **Side questions and holds.** Short answers from the prompt or RAG context only; rates, fees, and timelines belong to the senior expert. A hold request outputs `NO_RESPONSE_NEEDED` and waits — but only where Retell AI supports it.
+11. **Side questions and holds.** Short answers from the prompt or RAG context only; rates, fees, and timelines belong to the senior expert. A hold request outputs `NO_RESPONSE_NEEDED` and waits, but only where Retell AI supports it.
 
 ## What the tests actually showed
 
@@ -118,7 +118,7 @@ If I had one more test cycle, I would re-run exactly two calls: a busy-customer 
 
 ## Recordings and logs
 
-The `.wav` recordings, `.log` files, and the qualified-scenario `.mov` screen recording referenced in the project docs live outside git. At cleanup time I verified none of them were in the repo (no `.log`, `.wav`, `.mp3`, `.m4a`, `.ogg`, or `.flac` files present), which is how it should stay — GitHub is for the text evidence, Drive is for the heavy media.
+The `.wav` recordings, `.log` files, and the qualified-scenario `.mov` screen recording referenced in the project docs live outside git. At cleanup time I verified none of them were in the repo (no `.log`, `.wav`, `.mp3`, `.m4a`, `.ogg`, or `.flac` files present), which is how it should stay. GitHub holds the text evidence; Drive holds the heavy media.
 
 - [Call recordings, transcripts source pack, and logs (Google Drive folder)](https://drive.google.com/drive/folders/19btUZNUcAv_jRrhM590U-C-VBrFQA2jp?usp=sharing)
 
@@ -146,8 +146,6 @@ If a link ever goes stale, the `transcripts/` folder and `docs/brief-test-result
 
 MIT — see [LICENSE](LICENSE).
 
-## What is left
-
-1. Optional: set the GitHub About description and topics from the repo settings.
+---
 
 Built by Maithresh Vaddi.
