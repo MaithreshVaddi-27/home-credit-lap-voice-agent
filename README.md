@@ -38,6 +38,7 @@ Note: that link carries an access token, so anyone holding it can open the agent
 │   ├── voice-agent-platform-workflow.png
 │   └── saved-simulation-test-t5.png
 ├── .gitignore
+├── LICENSE
 └── README.md
 ```
 
@@ -140,6 +141,10 @@ If a link ever goes stale, the `transcripts/` folder and `docs/brief-test-result
 ## Privacy and .gitignore
 
 `.gitignore` keeps audio/video (`*.wav`, `*.mp3`, `*.m4a`, `*.ogg`, `*.flac`, `*.mov`, `*.mp4`), logs (`*.log`), `.env` files, keys, credentials, and macOS metadata out of git. I scanned the prompt and transcripts for API keys, tokens, and passwords and found none.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
 
 ## What is left
 
