@@ -10,7 +10,7 @@ This was my AI Intern (Prompt Engineer) assignment for SalesAgents AI. The brief
 
 ## Try the live agent
 
-The deployed Retell AI agent is here: [Open the live LAP voice agent](https://agent.retellai.com/orb/agent_fd24e230e78c98d1ef8c755369?token=ca7d1cc410760ce3df80a5bcb66245f2).
+The deployed Retell AI agent is here: [Open the live LAP voice agent](https://agent.retellai.com/orb/agent_fd24e230e78c98d1ef8c755369?token=d455f30983900895dfb96988304af3c0).
 
 Note: that link carries an access token, so anyone holding it can open the agent session. That is fine for a demo, just don't mistake the share link for access control.
 
